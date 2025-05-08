@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Pawani Madhushani</h1>
 <h3 align="center">passionate IT Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medagangoda&label=Profile%20views&color=0e75b6&style=flat" alt="medagangoda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PawaniMadhushani&label=Profile%20views&color=0e75b6&style=flat" alt="PawaniMadhushani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Medagangoda&theme=dracula&column=7" alt="Medagangoda" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PawaniMadhushani&theme=dracula&column=7" alt="PawaniMadhushani" /></a> </p>
 
 - 🎓 I’m an undergraduate at *NSBM*
 
@@ -22,9 +22,9 @@
   
 
 
-| ![Medagangoda's github stats](https://github-readme-stats.vercel.app/api?username=Medagangoda&show_icons=true&theme=tokyonight) | ![Medagangoda GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Medagangoda&theme=tokyonight) |
+| ![PawaniMadhushani's github stats](https://github-readme-stats.vercel.app/api?username=PawaniMadhushani&show_icons=true&theme=tokyonight) | ![PawaniMadhushani GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawaniMadhushani&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medagangoda&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Medagangoda&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawaniMadhushani&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=PawaniMadhushani&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <br>
 
