@@ -14,9 +14,9 @@
 
 - 💬 Ask me about *Mobile App Development & Web Development*
 
-- 📫 How to reach me *sandunsampathmadagangodage@gmail.com*
+- 📫 How to reach me *pawanimadhushani132@gmail.com*
 
-- ⚡ Fun fact *call me as sandun*
+- ⚡ Fun fact *call me as Pawani*
 
 <br>
   
@@ -30,10 +30,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandun sampath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandun sampath" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sandun sampath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sandun sampath" height="30" width="40" /></a>
-<a href="https://fb.com/sandun sampath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandun sampath" height="30" width="40" /></a>
-<a href="https://instagram.com/sandun sampath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandun sampath" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/PawaniMadhushani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PawaniMadhushani" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/PawaniMadhushani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="PawaniMadhushani" height="30" width="40" /></a>
+<a href="https://fb.com/PawaniMadhushani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="PawaniMadhushani" height="30" width="40" /></a>
+<a href="https://instagram.com/sandun sampath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="PawaniMadhushani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
