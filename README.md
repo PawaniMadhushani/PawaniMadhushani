@@ -10,7 +10,7 @@
 
 - 🎓 I’m an undergraduate at *NSBM*
 
-- 🌱 I’m currently learning *Flutter-Dart & MERN*
+- 🌱 I’m currently learning *Flutter-Dart & React*
 
 - 💬 Ask me about *Mobile App Development & Web Development*
 
